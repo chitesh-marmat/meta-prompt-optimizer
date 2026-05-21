@@ -72,7 +72,7 @@ A toast notification confirms when the prompt has been optimized.
 
 ---
 
-## Future Improvements
+## Possible Improvements
 
 - Smarter intent detection (how-to vs creative vs coding prompts)
 - Preview diff between original and optimized prompts
