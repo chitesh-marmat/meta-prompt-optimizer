@@ -1,12 +1,12 @@
 # Prompt Optimizer
 
-A Chrome extension that automatically rewrites raw, casually written prompts into clearer, more detailed, and higher-quality prompts for AI tools like ChatGPT — without changing the user’s original intent.
+A Chrome extension that automatically rewrites raw, casually written prompts into clearer, more detailed, and higher-quality prompts for AI tools like ChatGPT, without changing the user’s original intent.
 
 This project is based on a simple observation: **better explained and more structured prompts consistently produce better AI outputs.**
 
 Instead of teaching users prompt engineering, the extension applies a lightweight *meta-prompting* approach. It intercepts a user’s prompt and rewrites it into a clearer, more effective version *before* it reaches the AI model.
 
-The project was intentionally built in a fast, experimental, and iterative way (vibe-coded). Features and design decisions evolved based on what actually broke while testing on real, modern web apps like ChatGPT, rather than following a rigid upfront design.
+The project was intentionally built in a fast, experimental, and iterative way (vibe-coded). Features and design decisions evolved based on what actually broke while testing on real, modern apps like ChatGPT, rather than following a rigid upfront design.
 
 ---
 
